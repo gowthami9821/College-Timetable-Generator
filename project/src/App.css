@@ -1,0 +1,14 @@
+#root {
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+body {
+  place-items: normal;
+  background-image: url('/src/idk.avif');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
